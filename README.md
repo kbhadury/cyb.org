@@ -1,6 +1,8 @@
-# http://areyouacyb.org
+# ~~http://areyouacyb.org~~
 
-Are you unusually good with computers?:computer: 
+### Unfortunately my hilarious domain name has expired (I bought the domain for a year using free credits at HackDavis and didn't want to spend any actual money to renew it)
+### You can still take the test at https://kbhadury.github.io/cyb.org/
+Are you unusually good with computers? :computer: 
 
 Do you forgo redwoods and pines for binary trees? :evergreen_tree: :evergreen_tree: :evergreen_tree:
 
